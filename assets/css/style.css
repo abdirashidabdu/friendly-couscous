@@ -1,0 +1,77 @@
+body{
+	background-image: url('../images/nba2.png');
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-weight: bold;
+    color:black;
+	background-size: 100%;
+}
+
+h1{
+	font-size: 50px;
+	text-align: center;
+}
+
+.answer{
+	text-align: center;
+	opacity: .5;
+	color:red;
+}
+
+#question{
+	text-align: center;
+}
+
+h5, h4 {
+	text-align: center;
+}
+
+img{
+	height: 300px;
+	width: 500px;
+	margin-left: 160px;
+	padding: 30px;
+}
+
+.panel-body{
+	text-align: center;
+
+}
+
+#score{
+	color: black;
+	background-color: gold;
+}
+#timer{
+	color: black;
+	background-color: gold;
+}
+
+.row {
+	text-align: center;
+}
+
+#answersArea {
+	text-align: center;
+	display: inline-block;
+}
+
+#answer1 {
+	border-color: white;
+	border-width: 5px;
+}
+#answer2 {
+	border-color: white;
+	border-width: 5px;
+}
+#answer3 {
+	border-color: white;
+	border-width: 5px;
+}
+#answer4 {
+	border-color: white;
+	border-width: 5px;
+}
+button {
+  margin: 13px;
+}
